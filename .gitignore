@@ -1,0 +1,12 @@
+.DS_Store
+
+GPATH
+GRTAGS
+GTAGS
+
+__pycache__
+model
+
+.ipynb_checkpoints
+
+*.qmlc
